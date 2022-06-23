@@ -31,3 +31,6 @@ Commands
  npm install
  nodemon index.js
 ```
+## Hosting
+- Frontend: [Firebse](https://firebase.google.com/)
+- Backend: [Heroku](https://dashboard.heroku.com/)
