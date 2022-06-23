@@ -1,6 +1,8 @@
 # shopping-cart
 A simple cart based web application for assessment.
-
+ ```shell
+git clone https://github.com/chauhanprakhar/shopping-cart.git
+```
 ## Frontend
 Commands
  ```shell
