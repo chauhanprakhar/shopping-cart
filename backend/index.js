@@ -13,7 +13,7 @@ app.use(cors());
 require('./models/user')
 app.use(require('./routes/user'))
 
-mongoose.connect('mongodb+srv://prakhar:prakhar@cluster0.zkn3t.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }, () => {
